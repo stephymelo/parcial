@@ -1,0 +1,6 @@
+rating:1999 nombre:THE IRISHMAN edad:84 raza:movie
+rating:2008 nombre:BREAKING BAD edad:96 raza:serie
+rating:2017 nombre:DARK edad:96 raza:serie
+rating:2017 nombre:OZARK edad:93 raza:serie
+rating:2017 nombre:STAR TREK edad:88 raza:serie
+rating:2017 nombre:MINDHUNTER edad:95 raza:serie
